@@ -61,4 +61,4 @@ FlyWise is a Python-based flight route planner that leverages advanced data stru
 
 ---
 
-Happy flying with FlightMapX!
+Happy flying with FlyWise!
